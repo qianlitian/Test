@@ -9,6 +9,6 @@ s.author = { "qianlitian" => "15737154533@163.com" }
 s.ios.deployment_target = "8.0"
 s.source = { :git => "https://github.com/qianlitian/Test.git", :tag =>s.version }
 s.requires_arc = true
-s.source_files = "Test/*.{h,m}"
+s.source_files = "Tes/Test/Test*.{h,m}"
 s.framework = "UIKit"
 end
